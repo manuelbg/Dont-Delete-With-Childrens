@@ -9,11 +9,11 @@ Install
 
 Rails 2.*
 
-	$ rails script/plugin install https://manuelbg@github.com/manuelbg/Dont-Delete-With-Childrens.git
+	$ rails script/plugin install git@github.com:manuelbg/Dont-Delete-With-Childrens.git
 
 Rails 3.*
 
-	$ rails plugin install https://manuelbg@github.com/manuelbg/Dont-Delete-With-Childrens.git
+	$ rails plugin install git@github.com:manuelbg/Dont-Delete-With-Childrens.git
 
 
 Use
