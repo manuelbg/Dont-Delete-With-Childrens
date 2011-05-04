@@ -13,7 +13,7 @@ Rails 2.*
 
 Rails 3.*
 
-	$ rails plugin  install https://manuelbg@github.com/manuelbg/Dont-Delete-With-Childrens.git
+	$ rails plugin install https://manuelbg@github.com/manuelbg/Dont-Delete-With-Childrens.git
 
 
 Use
